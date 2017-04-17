@@ -452,7 +452,7 @@ pre code {
   font-family: -apple-system, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 18px;
-  line-height: 1.1;
+  /*line-height: 1.1;*/
   display: block;
   font-weight: 300;
   margin: 20px 0 0;
@@ -469,7 +469,7 @@ pre code {
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
-  line-height: 1.1;
+  line-height: 1.7;
   display: block;
 }
 .intro-header .post-heading .subheading {
@@ -480,7 +480,7 @@ pre code {
   font-family: -apple-system, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 17px;
-  line-height: 1.4;
+  /*line-height: 1.4;*/
   font-weight: normal;
   margin: 10px 0 30px;
   margin-top: -5px;
