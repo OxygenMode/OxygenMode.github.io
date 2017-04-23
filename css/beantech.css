@@ -97,6 +97,9 @@ a img:focus {
 article {
   overflow-x: hidden;
 }
+audio {
+  margin: 0 auto;
+}
 blockquote {
   color: #808080;
   font-style: italic;
