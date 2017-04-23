@@ -97,7 +97,7 @@ a img:focus {
 article {
   overflow-x: hidden;
 }
-audio {
+.music {
   margin: 0 auto;
 }
 blockquote {
