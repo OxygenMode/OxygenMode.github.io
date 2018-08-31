@@ -135,14 +135,14 @@
 
                         
                         <li>
-                            <a href="/archive/">归档·Archives</a>
+                            <a href="/about/">关于·About</a>
                         </li>
                         
                     
 
                         
                         <li>
-                            <a href="/about/">关于·About</a>
+                            <a href="/archive/">归档·Archives</a>
                         </li>
                         
                     
@@ -212,6 +212,18 @@
             <!-- 标签云 -->
             <div id='tag_cloud' class="tags">
                 
+                    <a href="#心理学" title="心理学" rel="1"
+                        style="background-color:skyblue;color:whitesmoke"
+                    >心理学</a>
+                
+                    <a href="#人物" title="人物" rel="1"
+                        style="background-color:skyblue;color:whitesmoke"
+                    >人物</a>
+                
+                    <a href="#电音" title="电音" rel="1"
+                        style="background-color:skyblue;color:whitesmoke"
+                    >电音</a>
+                
                     <a href="#Minecraft" title="Minecraft" rel="2"
                         style="background-color:skyblue;color:whitesmoke"
                     >Minecraft</a>
@@ -224,10 +236,6 @@
                         style="background-color:skyblue;color:whitesmoke"
                     >闲读</a>
                 
-                    <a href="#电音" title="电音" rel="1"
-                        style="background-color:skyblue;color:whitesmoke"
-                    >电音</a>
-                
                     <a href="#游记" title="游记" rel="1"
                         style="background-color:skyblue;color:whitesmoke"
                     >游记</a>
@@ -236,6 +244,84 @@
 
             <!-- 标签列表 -->
 
+            
+            <div class="one-tag-list">
+                <span class="fa fa-tag listing-seperator" id="心理学">
+                    <span class="tag-text">心理学</span>
+                </span>
+                
+                  <!-- <li class="listing-item">
+                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                  </li> -->
+                 <div class="post-preview">
+                     <a href="/articles/carl_jung_intro/">
+                        <h2 class="post-title">
+                            荣格——他的分析与神秘
+                        </h2>
+                        
+                            <h3 class="post-subtitle">
+                                本文试图以一个及其不专业的口吻给你讲一讲关于荣格的一些事情。
+                            </h3>
+                        
+                    </a>
+                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+                </div>
+                
+                <hr>
+            </div>
+            
+            <div class="one-tag-list">
+                <span class="fa fa-tag listing-seperator" id="人物">
+                    <span class="tag-text">人物</span>
+                </span>
+                
+                  <!-- <li class="listing-item">
+                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                  </li> -->
+                 <div class="post-preview">
+                     <a href="/articles/carl_jung_intro/">
+                        <h2 class="post-title">
+                            荣格——他的分析与神秘
+                        </h2>
+                        
+                            <h3 class="post-subtitle">
+                                本文试图以一个及其不专业的口吻给你讲一讲关于荣格的一些事情。
+                            </h3>
+                        
+                    </a>
+                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+                </div>
+                
+                <hr>
+            </div>
+            
+            <div class="one-tag-list">
+                <span class="fa fa-tag listing-seperator" id="电音">
+                    <span class="tag-text">电音</span>
+                </span>
+                
+                  <!-- <li class="listing-item">
+                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                  </li> -->
+                 <div class="post-preview">
+                     <a href="/articles/edm_intro/">
+                        <h2 class="post-title">
+                            电音——不完全入门指南
+                        </h2>
+                        
+                            <h3 class="post-subtitle">
+                                这是一篇完全不负责任的不完全电音入门指南，如果我有哪部分讲错了，就不要告诉我了……
+                            </h3>
+                        
+                    </a>
+                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+                </div>
+                
+                <hr>
+            </div>
             
             <div class="one-tag-list">
                 <span class="fa fa-tag listing-seperator" id="Minecraft">
@@ -247,7 +333,7 @@
                   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                   </li> -->
                  <div class="post-preview">
-                     <a href="/articles/minecraft-server-1/">
+                     <a href="/articles/minecraft_server_1/">
                         <h2 class="post-title">
                             Minecraft个人私服搭建指南（上）
                         </h2>
@@ -265,7 +351,7 @@
                   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                   </li> -->
                  <div class="post-preview">
-                     <a href="/articles/minecraft-server-2/">
+                     <a href="/articles/minecraft_server_2/">
                         <h2 class="post-title">
                             Minecraft个人私服搭建指南（下）
                         </h2>
@@ -291,7 +377,7 @@
                   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                   </li> -->
                  <div class="post-preview">
-                     <a href="/articles/oxygenmode-start/">
+                     <a href="/articles/oxygenmode_start/">
                         <h2 class="post-title">
                             正在开启氧模式
                         </h2>
@@ -317,39 +403,13 @@
                   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                   </li> -->
                  <div class="post-preview">
-                     <a href="/articles/readbook-vol-1/">
+                     <a href="/articles/readbook_vol_1/">
                         <h2 class="post-title">
                             《计算机与人脑》--读书笔记vol.1
                         </h2>
                         
                             <h3 class="post-subtitle">
                                 第三次读这本书，决定写个读书笔记。
-                            </h3>
-                        
-                    </a>
-                    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-                </div>
-                
-                <hr>
-            </div>
-            
-            <div class="one-tag-list">
-                <span class="fa fa-tag listing-seperator" id="电音">
-                    <span class="tag-text">电音</span>
-                </span>
-                
-                  <!-- <li class="listing-item">
-                  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-                  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                  </li> -->
-                 <div class="post-preview">
-                     <a href="/articles/edm-intro/">
-                        <h2 class="post-title">
-                            电音——不完全入门指南
-                        </h2>
-                        
-                            <h3 class="post-subtitle">
-                                这是一篇完全不负责任的不完全电音入门指南，如果我有哪部分讲错了，就不要告诉我了……
                             </h3>
                         
                     </a>
@@ -369,7 +429,7 @@
                   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                   </li> -->
                  <div class="post-preview">
-                     <a href="/articles/travel-in-Changbai/">
+                     <a href="/articles/travel_in_Changbai/">
                         <h2 class="post-title">
                             长白常白长白山
                         </h2>
@@ -509,23 +569,23 @@
     <ul>
       
         <li>
-          <a href="/articles/edm-intro/">电音——不完全入门指南</a>
+          <a href="/articles/carl_jung_intro/">荣格——他的分析与神秘</a>
         </li>
       
         <li>
-          <a href="/articles/minecraft-server-2/">Minecraft个人私服搭建指南（下）</a>
+          <a href="/articles/edm_intro/">电音——不完全入门指南</a>
         </li>
       
         <li>
-          <a href="/articles/minecraft-server-1/">Minecraft个人私服搭建指南（上）</a>
+          <a href="/articles/minecraft_server_2/">Minecraft个人私服搭建指南（下）</a>
         </li>
       
         <li>
-          <a href="/articles/readbook-vol-1/">《计算机与人脑》--读书笔记vol.1</a>
+          <a href="/articles/minecraft_server_1/">Minecraft个人私服搭建指南（上）</a>
         </li>
       
         <li>
-          <a href="/articles/travel-in-Changbai/">长白常白长白山</a>
+          <a href="/articles/readbook_vol_1/">《计算机与人脑》--读书笔记vol.1</a>
         </li>
       
     </ul>
