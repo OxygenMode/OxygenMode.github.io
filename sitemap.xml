@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://oxygenmode.me/articles/edm_intro/</loc>
+    
+    <lastmod>2019-07-26T12:11:27.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://oxygenmode.me/articles/readbook_vol_1/</loc>
+    
+    <lastmod>2019-01-22T14:07:59.688Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://oxygenmode.me/articles/readbook_vol_2/</loc>
     
     <lastmod>2019-01-09T15:24:24.957Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://oxygenmode.me/articles/carl_jung_intro/</loc>
     
     <lastmod>2018-09-01T05:14:37.533Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://oxygenmode.me/articles/edm_intro/</loc>
-    
-    <lastmod>2018-08-21T09:12:06.503Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>http://oxygenmode.me/articles/minecraft_server_1/</loc>
     
     <lastmod>2018-03-29T10:21:37.093Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://oxygenmode.me/articles/readbook_vol_1/</loc>
-    
-    <lastmod>2018-03-27T06:20:52.686Z</lastmod>
     
   </url>
   
