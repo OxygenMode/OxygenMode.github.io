@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://oxygenmode.me/post-sitemap.xml</loc>
+        <loc>http://oxygenmode.me/post-sitemap.xml</loc>
         <lastmod>2020-08-01T23:00:08.101Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://oxygenmode.me/page-sitemap.xml</loc>
+        <loc>http://oxygenmode.me/page-sitemap.xml</loc>
         <lastmod>2020-07-27T14:54:59.020Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://oxygenmode.me/category-sitemap.xml</loc>
+        <loc>http://oxygenmode.me/category-sitemap.xml</loc>
         <lastmod>2018-03-26T07:43:50.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://oxygenmode.me/tag-sitemap.xml</loc>
+        <loc>http://oxygenmode.me/tag-sitemap.xml</loc>
         <lastmod>2018-03-26T07:43:50.000Z</lastmod>
     </sitemap>
 

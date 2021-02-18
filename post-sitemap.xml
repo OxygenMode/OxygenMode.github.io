@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://oxygenmode.me</loc>
+        <loc>http://oxygenmode.me</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/westworld-ots/</loc>
+        <loc>http://oxygenmode.me/articles/westworld-ots/</loc>
         <lastmod>2020-08-01T23:00:08.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/edm_intro/</loc>
+        <loc>http://oxygenmode.me/articles/edm_intro/</loc>
         <lastmod>2020-03-07T15:14:00.461Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/carl_jung_intro/</loc>
+        <loc>http://oxygenmode.me/articles/carl_jung_intro/</loc>
         <lastmod>2020-03-07T15:12:19.829Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -31,7 +31,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/readbook_vol_1/</loc>
+        <loc>http://oxygenmode.me/articles/readbook_vol_1/</loc>
         <lastmod>2019-01-22T14:07:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -39,7 +39,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/readbook_vol_2/</loc>
+        <loc>http://oxygenmode.me/articles/readbook_vol_2/</loc>
         <lastmod>2019-01-09T15:24:24.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -47,7 +47,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/minecraft_server_2/</loc>
+        <loc>http://oxygenmode.me/articles/minecraft_server_2/</loc>
         <lastmod>2018-03-30T09:58:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -55,7 +55,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/minecraft_server_1/</loc>
+        <loc>http://oxygenmode.me/articles/minecraft_server_1/</loc>
         <lastmod>2018-03-29T10:21:37.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -63,7 +63,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/oxygenmode_start/</loc>
+        <loc>http://oxygenmode.me/articles/oxygenmode_start/</loc>
         <lastmod>2018-03-27T05:37:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -71,7 +71,7 @@
     </url>
 
     <url>
-        <loc>https://oxygenmode.me/articles/travel_in_Changbai/</loc>
+        <loc>http://oxygenmode.me/articles/travel_in_Changbai/</loc>
         <lastmod>2018-03-26T07:43:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
